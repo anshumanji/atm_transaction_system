@@ -1,1 +1,1 @@
-This is basic ATM_TRANSACTION_SYSTEM project coded in java using concept of OOPS, Exception Handling etc.
+This is a basic ATM_TRANSACTION_SYSTEM project coded in java using concept of OOPS, Exception Handling etc.
